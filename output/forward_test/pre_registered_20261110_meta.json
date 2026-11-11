@@ -1,0 +1,11 @@
+{
+  "protocol": "docs/预注册_主攻三元组_20261110.md",
+  "created_at": "2026-11-10 19:48:05",
+  "start_period": 2026300,
+  "target_periods": 200,
+  "p0_ge2": 0.1526,
+  "p0_full3": 0.0139,
+  "alpha": 0.01,
+  "rule_fingerprint": "a1a17989d22a8fb9",
+  "rule": "compute_picks(ctx)['groups']；规则冻结，禁止中途调参/改权重"
+}

@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Generated outputs (reports / logs / backtest artifacts)
+output/backtest/
+output/diagnostics/
+output/reports/
+
+# Web research cache (large HTML/XML scratch)
+.tmp_research/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
