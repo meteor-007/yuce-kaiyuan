@@ -1,11 +1,11 @@
-# 快乐8「点位+遗漏」分析系统
+# KL8 point/omission analysis system
 # Python 3.10+
 numpy>=1.24
 scipy>=1.10
 openpyxl>=3.1
 
-# 测试
+# Tests
 pytest>=7.0
 
-# 可选：复现 scratch/ 下的深度复盘实验（eval_candidates.py）
+# Optional: reproduce scratch/eval_candidates.py experiments
 # scikit-learn>=1.3

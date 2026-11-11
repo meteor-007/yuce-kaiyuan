@@ -24,6 +24,9 @@
 ## 快速开始
 
 ```bash
+# 0) 安装依赖
+pip install -r requirements.txt
+
 # 1) 同步最新开奖（福彩官网 + 一定牛备用源）
 python kl8_sync.py --quick
 
